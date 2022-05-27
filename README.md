@@ -30,10 +30,6 @@ In order to ensure that the Statamic community is welcoming to all and generally
 - [Statamic Main Site](https://statamic.com)
 - [Statamic Documentation][docs]
 - [Statamic Application Repo][app-repo]
-- [Statamic Migrator](https://github.com/statamic/migrator)
-- [Statamic Discord][discord]
 
 [docs]: https://statamic.dev/
-[discord]: https://statamic.com/discord
-[contribution]: https://github.com/statamic/cms/blob/master/CONTRIBUTING.md
-[app-repo]: https://github.com/statamic/statamic
+[telegram]: https://t.me/devking12
