@@ -29,7 +29,7 @@ In order to ensure that the Statamic community is welcoming to all and generally
 
 - [Statamic Main Site](https://statamic.com)
 - [Statamic Documentation][docs]
-- [Statamic Application Repo][app-repo]
+- [telegram] ( https://t.me/devking12 )
 
 [docs]: https://statamic.dev/
 [telegram]: https://t.me/devking12
