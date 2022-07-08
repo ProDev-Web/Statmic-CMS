@@ -29,7 +29,6 @@ In order to ensure that the Statamic community is welcoming to all and generally
 
 - [Statamic Main Site](https://statamic.com)
 - [Statamic Documentation][docs]
-- [telegram] ( https://t.me/devking12 )
+- [telegram] (https://t.me/ProDev1205)
+- [Skype] (https://join.skype.com/invite/xAHPnMKaZkkk)
 
-[docs]: https://statamic.dev/
-[telegram]: https://t.me/devking12
